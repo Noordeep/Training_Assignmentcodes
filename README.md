@@ -1,3 +1,3 @@
 # Training_Assignmentcodes
 
-This repository contains all my assignemtn solutions
+This repository contains all my assignment solutions
